@@ -8,5 +8,6 @@ wget https://raw.githubusercontent.com/KlimasTech/makemkv-betakey-activator/refs
 python3 makemkv-betakey.py
 
 3) Copy makemkv-betakey.reg to Windows and run
+4) In windows requaiments "py -m pip install requests"
 
 Its all !
